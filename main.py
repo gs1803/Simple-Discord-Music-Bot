@@ -9,5 +9,5 @@ bot.remove_command('help')
 bot.add_cog(main_cog(bot))
 bot.add_cog(music_cog(bot))
 
-TOKEN = "ODk2ODA4NzcxNjkzNzIzNjU5.YWMgQQ.2XYJ9SqsRq1Jd1zmU_Oup2IPHM0"
+TOKEN = "Enter Personal Discord Bot Token"
 bot.run(TOKEN)
