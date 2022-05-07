@@ -1,2 +1,7 @@
 # Simple-Discord-Music-Bot
-This is a simple discord music bot that plays songs from YouTube. 
+## Created by: gs1803
+This is a simple discord music bot that plays songs from YouTube. It does not support playlists or livestreams unfortunately.
+
+## Dependencies
+* discord- v1.7.3
+* youtube_dl- v2021.6.6
