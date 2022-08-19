@@ -6,3 +6,4 @@ This is a simple discord music bot that plays songs from YouTube. It does not su
 pip install
 * discord- v1.7.3
 * youtube_dl- v2021.6.6
+* PyNaCl- v1.5.0
